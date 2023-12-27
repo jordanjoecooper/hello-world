@@ -27,3 +27,25 @@ Its fun to look at how to do something so incredibly basic in many ways.
 - [ ] JavaScript
 - [ ] Lua
 - [ ] Kotlin
+- [ ] LaTeX
+- [ ] Swift
+- [ ] Objective-C
+- [ ] Kotlin
+- [ ] Rust
+- [ ] Perl
+- [ ] Assembly
+- [ ] Lua
+- [ ] Dart
+- [ ] Julia
+- [ ] F#
+- [ ] Erlang
+- [ ] Delphi
+- [ ] Cobol
+- [ ] Ada
+- [ ] Fortran
+- [ ] CoffeeScript
+- [ ] Hack
+- [ ] Clojure
+- [ ] Scratch
+- [ ] Elm
+
