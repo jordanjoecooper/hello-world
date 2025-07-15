@@ -11,7 +11,8 @@ Its fun to look at how to do something so incredibly basic in many ways.
 - [x] Python
 - [x] HyperText Markup Language (HTML)
 - [x] Markdown (MD)
-- [x] Ruby 
+- [x] Ruby
+- [x] C
 
 ## Up Next (this list will grow)
 - [ ] NodeJs
@@ -22,7 +23,6 @@ Its fun to look at how to do something so incredibly basic in many ways.
 - [ ] Go
 - [ ] C++
 - [ ] Shell
-- [ ] C
 - [ ] TypeScript
 - [ ] JavaScript
 - [ ] Lua
